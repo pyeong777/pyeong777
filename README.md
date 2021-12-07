@@ -11,6 +11,7 @@
 <p align=center>
   <img src="https://img.shields.io/badge/-HTML5-orange" />&nbsp
   <img src="https://img.shields.io/badge/-CSS3-blue"/>&nbsp
+<br>
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-green"/>&nbsp
   <img src="https://img.shields.io/badge/-React.js-skyblue"/>&nbsp
