@@ -1,16 +1,31 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=170&section=header&text=%20DaePyeongSeo&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
-<!--
-**pyeong777/pyeong777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align=center>
+  I'm DaePyeong Seo, a growing FE developer. ✨
+</p>
+<br>
+<br>
 
-Here are some ideas to get you started:
+<h3 align=center>🌱Tech Stack🌱</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+  <img src="https://img.shields.io/badge/-HTML5-orange" />&nbsp
+  <img src="https://img.shields.io/badge/-CSS3-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Node.js-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-React.js-skyblue"/>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
+</p>
+
+<br>
+<h3 align="center">•••</h3>
+
+<p align="center">
+  <a href="https://velog.io/@sdp1123">
+    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sdp1123"/>
+  </a>&nbsp
+  
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=FD866E&height=100&section=footer)
