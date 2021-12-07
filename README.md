@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=170&section=header&text=%20DaePyeongSeo&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
-
+<br>
+<br>
+<br>
+<br>
 <p align=center>
-  I'm DaePyeong Seo, a growing FE developer. ✨
+ ✨ I'm DaePyeong Seo, a growing FE developer. ✨
 </p>
 <br>
 <br>
