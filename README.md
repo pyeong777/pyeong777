@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align=center>
- ✨ I'm DaePyeong Seo, a growing FE developer. ✨
+ ✨ FE developer. ✨
 </p>
 <br>
 <br>
