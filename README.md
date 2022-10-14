@@ -17,8 +17,10 @@
   <img src="https://img.shields.io/badge/-CSS3-blue"/>&nbsp
 <br>
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-TypeScript-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-green"/>&nbsp
   <img src="https://img.shields.io/badge/-React-skyblue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Next.js-black"/>&nbsp
   <br>
 </p>
 
