@@ -28,8 +28,8 @@
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://velog.io/@sdp1123">
-    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sdp1123"/>
+  <a href="https://pyeongdevlog.vercel.app/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=nextdotjs&logoColor=white&link=https://pyeongdevlog.vercel.app/"/>
   </a>
 </p>
 
