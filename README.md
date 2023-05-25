@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=6FC7E1&height=170&section=header&text=%20DaePyeongSeo&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
-<br>
+<div align="center"> 
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=DaePyeong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)<br>
 <br>
 <br>
 <br>
 <p align=center>
- ✨ FE developer. ✨ <br><br><br>
+ ✨ Welcome to my repositories ✨ <br><br><br>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpyeong777&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23CDEB07&title=hits&edge_flat=false"/></a>
 </p>
 <br>
@@ -32,5 +33,6 @@
     <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=nextdotjs&logoColor=white&link=https://pyeongdevlog.vercel.app/"/>
   </a>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=FD866E&height=100&section=footer)
+ 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sdp1123&color=dark)](https://velog.io/@sdp1123)
+</div>
