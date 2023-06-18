@@ -34,5 +34,4 @@
   </a>
 </p>
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sdp1123&color=dark)](https://pyeongdevlog.vercel.app/)
 </div>
